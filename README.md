@@ -2,7 +2,7 @@ IP BASE API Details
 
 LINKS:
 •	Free: https://api.ipbase.com/v2/info
-•	https://api.ipbase.com/v2/info?apikey={your-api-key}
+•	When you have API Key: https://api.ipbase.com/v2/info?apikey={your-api-key}
 
 
 It returns info of users 
