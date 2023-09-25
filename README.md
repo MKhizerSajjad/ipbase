@@ -17,7 +17,7 @@ PROS:
 •	Give around 50 requests free for a day, which is enough for testing and integrations
 •	
 CONS:
-•	You have to wait for the request-response.
+•	You have to wait for the request response.
 •	If you have more than 50 request consumption you have to pay.
 
 
