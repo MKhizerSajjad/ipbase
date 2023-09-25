@@ -1,0 +1,116 @@
+{
+    "data": {
+        "ip": "110.39.152.254",
+        "hostname": null,
+        "type": "v4",
+        "range_type": {
+            "type": "PUBLIC",
+            "description": "Public address"
+        },
+        "connection": {
+            "asn": 38264,
+            "organization": "National WiMAX/IMS environment",
+            "isp": "Wateen Telecom Limited",
+            "range": "110.39.128.0/19"
+        },
+        "location": {
+            "geonames_id": 1167710,
+            "latitude": 31.5496768951416,
+            "longitude": 74.34355926513672,
+            "zip": "55110",
+            "continent": {
+                "code": "AS",
+                "name": "Asia",
+                "name_translated": "Asia",
+                "geonames_id": 6255147,
+                "wikidata_id": "Q48"
+            },
+            "country": {
+                "alpha2": "PK",
+                "alpha3": "PAK",
+                "calling_codes": [
+                    "+92"
+                ],
+                "currencies": [
+                    {
+                        "symbol": "PKRs",
+                        "name": "Pakistani Rupee",
+                        "symbol_native": "₨",
+                        "decimal_digits": 0,
+                        "rounding": 0,
+                        "code": "PKR",
+                        "name_plural": "Pakistani rupees"
+                    }
+                ],
+                "emoji": "🇵🇰",
+                "ioc": "PAK",
+                "languages": [
+                    {
+                        "name": "Urdu",
+                        "name_native": "اردو"
+                    },
+                    {
+                        "name": "English",
+                        "name_native": "English"
+                    }
+                ],
+                "name": "Pakistan",
+                "name_translated": "Pakistan",
+                "timezones": [
+                    "Asia/Karachi"
+                ],
+                "is_in_european_union": false,
+                "fips": "PK",
+                "geonames_id": 1168579,
+                "hasc_id": "PK",
+                "wikidata_id": "Q843"
+            },
+            "city": {
+                "fips": null,
+                "alpha2": null,
+                "geonames_id": null,
+                "hasc_id": null,
+                "wikidata_id": null,
+                "name": "Lahore",
+                "name_translated": "Lahore"
+            },
+            "region": {
+                "fips": "PK04",
+                "alpha2": "PK-PB",
+                "geonames_id": 1167710,
+                "hasc_id": "PK.PB",
+                "wikidata_id": "Q4478",
+                "name": "Punjab",
+                "name_translated": "Punjab"
+            }
+        },
+        "tlds": [
+            ".pk"
+        ],
+        "timezone": {
+            "id": "Asia/Karachi",
+            "current_time": "2023-09-25T11:53:03+05:00",
+            "code": "PKT",
+            "is_daylight_saving": false,
+            "gmt_offset": 18000
+        },
+        "security": {
+            "is_anonymous": null,
+            "is_datacenter": null,
+            "is_vpn": null,
+            "is_bot": null,
+            "is_abuser": null,
+            "is_known_attacker": null,
+            "is_proxy": null,
+            "is_spam": null,
+            "is_tor": null,
+            "proxy_type": null,
+            "is_icloud_relay": null,
+            "threat_score": null
+        },
+        "domains": {
+            "count": null,
+            "domains": []
+        }
+    }
+}
